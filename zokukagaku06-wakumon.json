@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/wakumon",
  "yomi": "わくもん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（問答）",
+  "era": "江戸後期",
+  "author": "小沢蘆庵（1723〜1801）",
+  "desc": "問いと答えの形で、古今集の序の「やまと歌」という語の意味などをめぐり、蘆庵が歌についての考えを述べたもの。"
+ },
  "editions": [
   {
    "pid": "993384",
